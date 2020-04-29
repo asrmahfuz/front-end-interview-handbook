@@ -3,12 +3,7 @@
 <div align="center">
   <a href="https://dribbble.com/shots/4263961-Front-End-Interview-Scroll">
     <img src="assets/scroll.svg" alt="Front End Interview Handbook" width="400"/>
-    </a>
-  <br/>
-  <p>
-    <em>Credits: <a href="https://dribbble.com/shots/4263961-Front-End-Interview-Scroll">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a>
-    </em>
-  </p>
+  </a>
 </div>
 
 ## What is this?
@@ -27,7 +22,7 @@ While there are some existing resources to help front end developers in preparin
 
 ## Looking for Generic Interview Preparation?
 
-You might be interested in the [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook) which has helpful content on general coding interviews such as algorithms, behavioral questions and an [interview cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet)!
+You might be interested in the [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) which has helpful content on general coding interviews such as algorithms, behavioral questions and an [interview cheatsheet](https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)!
 
 <div align="center">
   <img src="assets/web-tech.svg" alt="Web Technologies illustration" width="400"/>
@@ -39,9 +34,9 @@ You might be interested in the [Tech Interview Handbook](https://yangshun.github
 
 ## Table of Contents
 
-1. [HTML Questions](/contents/en/html-questions.md)
-1. [CSS Questions](/contents/en/css-questions.md)
-1. [JavaScript Questions](/contents/en/javascript-questions.md)
+1. [HTML Questions](html-questions.md)
+1. [CSS Questions](css-questions.md)
+1. [JavaScript Questions](javascript-questions.md)
 
 ## Contents
 
@@ -72,7 +67,7 @@ Read our [contributing guide](/CONTRIBUTING.md) to learn about how you can contr
 
 Many hours of hard work have gone into this project. Your support will be very appreciated!
 
-<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"/></a>
 
 ## License
 
